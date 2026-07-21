@@ -11,12 +11,12 @@ Building production-ready AI systems that combine LLMs, Machine Learning, Retrie
 ---
 
 ## 👩‍💻 About Me
-
 - 🔭 AI Backend Engineer working on production AI applications
-- 🤖 Passionate about Agentic AI, MCP, LangGraph and RAG
+  
 - 🧠 Building AI systems that combine traditional ML with LLMs
-- ⚡ Love optimizing latency, memory usage and retrieval pipelines
-- ☁️ Experience deploying AI workloads on Azure using Docker and GitHub Actions
+- 🤖 Passionate about Agentic AI, MCP, LangGraph and RAG
+-  ☁️ Experience deploying AI workloads on Azure using Docker and GitHub Actions
+
 - 📍 Bhopal, India
 
 ---
@@ -37,23 +37,15 @@ Building production-ready AI systems that combine LLMs, Machine Learning, Retrie
 ### 🏗 Intelligent Construction Scheduler
 Hybrid ML + LLM scheduling platform using
 
-- Agentic AI
-- LangGraph
-- MCP
-- RAG
-- FastAPI
-- Azure
-- PostgreSQL
-- Dynamic Resource Allocation
-- Vector Database Memory
+- Agentic AI/ LangGraph / MCP/ RAG / Vector DBs
+- FastAPI, Azure, Docker, Postman
 
 Features
 
 - Hybrid ML + LLM decision making
 - External weather integration
 - Resource-aware scheduling
-- Hierarchical memory
-- Prompt compression
+- Output Structuring
 - Entity Memory
 - Feedback learning
 - Dynamic Gantt Chart generation
@@ -66,8 +58,7 @@ An intelligent shopping assistant capable of
 
 - Semantic Search
 - RAG
-- Personalized recommendations
-- Color recommendations based on complexion
+- Personalized recommendations based on personal features and preferences
 - Product comparison
 - Context-aware conversations
 
@@ -75,7 +66,6 @@ Tech
 
 - OpenAI
 - FastAPI
-- PostgreSQL
 - Vector Search
 - Embeddings
 
@@ -106,7 +96,6 @@ Tech
 ### AI
 
 - OpenAI
-- LangChain
 - LangGraph
 - MCP
 - RAG
