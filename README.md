@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zahra Husain</h1>
 
 <h3 align="center">
-AI Backend Engineer • Agentic AI • Machine Learning • FastAPI • Azure
+AI Backend Engineer • Agentic AI • RAG • Machine Learning • FastAPI • Azure
 </h3>
 
 <p align="center">
@@ -17,7 +17,6 @@ Building production-ready AI systems that combine LLMs, Machine Learning, Retrie
 - 🤖 Passionate about Agentic AI, MCP, LangGraph and RAG
 -  ☁️ Experience deploying AI workloads on Azure using Docker and GitHub Actions
 
-- 📍 Bhopal, India
 
 ---
 
@@ -46,7 +45,7 @@ Features
 - External weather integration
 - Resource-aware scheduling
 - Output Structuring
-- Entity Memory
+- Azure ML
 - Feedback learning
 - Dynamic Gantt Chart generation
 
