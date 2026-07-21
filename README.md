@@ -54,20 +54,16 @@ Features
 
 ### 🛍 AI Personal Shopping Assistant
 
-An intelligent shopping assistant capable of
-
-- Semantic Search
-- RAG
+An intelligent shopping assistant capable of -
 - Personalized recommendations based on personal features and preferences
 - Product comparison
 - Context-aware conversations
 
 Tech
 
-- OpenAI
 - FastAPI
 - Vector Search
-- Embeddings
+
 
 ---
 
@@ -113,9 +109,7 @@ Tech
 
 ### Databases
 
-- PostgreSQL
 - MySQL
-- SQL Server
 - SQLite
 
 ### Cloud
@@ -128,12 +122,9 @@ Tech
 ### Machine Learning
 
 - Recommendation Systems
-- Semantic Search
-- Embeddings
-- YOLOv8
+- LLM Evaluation and Tracking
 - Computer Vision
-- Vector Databases
-- Annoy
+
 
 ### Frontend
 
