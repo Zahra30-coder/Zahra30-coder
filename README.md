@@ -22,6 +22,17 @@ Building production-ready AI systems that combine LLMs, Machine Learning, Retrie
 ---
 
 ## 🚀 What I'm Working On
+---
+
+## 🌟 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| AI Job Agent | Autonomous job search and matching |
+| Intelligent Construction Scheduler | Agentic AI (MCP) + LLM scheduling platform |
+| Personal Shopping Assistant | RAG-powered recommendation engine |
+| Product Recommendation Engine | Two-tower embedding recommendation system |
+| YOLOv8 Detection | Real-time object detection |
 
 ### 🏗 Intelligent Construction Scheduler
 Hybrid ML + LLM scheduling platform using
@@ -139,19 +150,6 @@ Tech
 
 - React
 - Angular
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| Intelligent Construction Scheduler | Hybrid ML + LLM scheduling platform |
-| Personal Shopping Assistant | RAG-powered recommendation engine |
-| AI Job Agent | Autonomous job search and matching |
-| Supplier Chatbot | LangGraph chatbot with structured retrieval |
-| Product Recommendation Engine | Two-tower embedding recommendation system |
-| YOLOv8 Detection | Real-time object detection |
 
 ---
 
